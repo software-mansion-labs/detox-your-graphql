@@ -1,6 +1,6 @@
 # Example app for `Detox your GraphQL` article.
 
-Article: // TODO link
+Article: https://blog.swmansion.com/detox-your-graphql-74b58dca3221
 
 The purpose of this React Native app is to show how to create E2E testing environment, which won't be dependent on your backend server.
 
